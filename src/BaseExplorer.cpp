@@ -7,7 +7,7 @@
 #include <functional>
 #include <random>
 #include <ctime>
-#include "exploration/BaseExplorer.h"
+#include "base_explorer/BaseExplorer.h"
 
 //#define DEBUG
 //#define SHOW_IMG
